@@ -1,0 +1,7 @@
+F:\MyGames\Robot_Rescue\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\HubGuy\UWG\GamJamSummer2010andUp\RobotRescue\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MediaGuy\Desktop\GameJam\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\HubGuy\UWG\GamJamSummer2010andUp\Robot\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Robot\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Robot\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MediaGuy\Desktop\Robot\Robot_Rescue\Robot_RescueContent\obj\x86\Debug\ResolveAssemblyReference.cache

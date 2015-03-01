@@ -1,0 +1,10 @@
+Boulder Push.wav = Sound of Cealing slowly decending on humans
+
+Control Room 001.wav = When level 1 starts
+
+deathspeak.wav = when Robot dies
+
+rescue.wav = when a human is picked up
+
+Jump.wav = used for when the character jumps
+
